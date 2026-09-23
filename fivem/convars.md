@@ -29,3 +29,9 @@ Perform a full stop/start, connect from FiveM, verify txAdmin access, inspect th
 ## Maintenance
 
 Back up `server-data`, important `txData`/profile data and databases before major changes. Change one layer at a time: artifact, framework, then resources.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

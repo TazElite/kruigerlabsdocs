@@ -30,3 +30,9 @@ For backwards compatibility, missing module/command switches in stored settings 
 
 ## Changes do not appear
 Refresh the dashboard/server data, verify the Discord object still exists, and confirm Vanta can see/manage the selected role/channel.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

@@ -29,3 +29,9 @@ Install dependencies first. Run `refresh`, then `ensure ResourceName`, and read 
 ## Cold boot
 
 Add it to startup configuration and fully restart the server. A resource that only works after manual restart is not fully installed.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

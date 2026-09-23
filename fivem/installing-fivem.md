@@ -31,3 +31,9 @@ You should see your signed-in FiveM client and be able to browse servers. If ins
 ## Next
 
 Continue with **Joining Your First FiveM Server** or **Creating Your First Local Server**.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

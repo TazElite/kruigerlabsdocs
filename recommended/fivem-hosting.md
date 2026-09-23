@@ -37,3 +37,9 @@ Do not buy solely from a generic “players = RAM” chart. Framework, streamed 
 
 ## After purchase
 Continue to **First FiveM Deployment**, then **Organizing Resources**, **Multiple CFG Files**, and **Backups & Rollbacks**.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

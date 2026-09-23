@@ -29,3 +29,9 @@ Do not use `git reset --hard` until you know what would be lost. Inspect `git st
 ## Verification
 
 Record the commit hash deployed, confirm the application/resource reports the expected version, test its primary function, then inspect logs for errors.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

@@ -62,3 +62,9 @@ Test with the exact weapon and other weapon/inventory resources enabled. Another
 
 ### Resource will not start
 Confirm `fxmanifest.lua` is directly inside the `KruigerHandsUp` folder and that you do not have an extra nested folder.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

@@ -26,3 +26,9 @@ Check its README/product documentation for:
 
 ## Success check
 You should be able to explain every dependency in your startup chain. If you cannot, document it before adding more resources.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

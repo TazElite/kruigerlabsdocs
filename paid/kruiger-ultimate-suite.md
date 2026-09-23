@@ -130,3 +130,9 @@ Do not call the suite finished because it starts. Test:
 
 ## Troubleshooting the suite
 When several features fail, disable the assumption that “the suite is one problem.” Verify each component individually, then shared identifiers, permissions, start order, and conflicts.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

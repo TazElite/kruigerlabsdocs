@@ -51,3 +51,9 @@ cache/
 ```
 
 If a secret is accidentally committed, removing it in a later commit does not make the old secret safe. Rotate the exposed credential.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

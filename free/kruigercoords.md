@@ -25,3 +25,9 @@ Use `/coords` in-game to capture the player's current position and heading as a 
 
 ## Troubleshooting
 If the command is missing, confirm the resource started and check the console for manifest or Lua errors. If copying does not work as expected, verify the distributed version's clipboard/UI behavior and check the client console.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

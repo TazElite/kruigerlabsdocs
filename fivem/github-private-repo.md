@@ -32,3 +32,9 @@ Do not reuse a broad personal token if a narrower read-only credential solves th
 
 ## Success check
 The server can clone/pull the intended private repository but does not have unnecessary access to unrelated repositories.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

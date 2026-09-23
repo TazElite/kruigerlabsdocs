@@ -22,3 +22,9 @@ Create a narrowly matched rule first, restrict it to the intended channels where
 
 ## Troubleshooting
 If a rule never triggers, check matching mode, channel restrictions, module/command state, and whether the triggering message satisfies the configured match.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

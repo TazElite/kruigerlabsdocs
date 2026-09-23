@@ -29,3 +29,9 @@ Test every documented command/control, authorized and unauthorized permissions, 
 ## Updating
 
 Never overwrite your working config blindly. Diff the new default configuration against your version and migrate settings into the new schema.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

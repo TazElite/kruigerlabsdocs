@@ -25,3 +25,9 @@ The first join can take longer while assets download. Do not repeatedly close Fi
 ## If it fails
 
 Capture the exact connection error, server name, and whether other servers work. That separates a client-wide problem from one server's problem.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

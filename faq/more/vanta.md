@@ -25,3 +25,9 @@ Do not publish secrets, blindly copy old configs, mix multiple competing resourc
 ## When to ask for help
 
 If the documented test still fails, send Kruiger Labs Support the exact error, version, reproduction steps and sanitized configuration.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

@@ -29,3 +29,9 @@ Repeat the original reproduction, then test reconnect/restart/cold boot. Check l
 ## Support package
 
 Provide versions, exact error, reproduction steps, expected vs actual behavior, sanitized config, screenshots and what you already tested.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

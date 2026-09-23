@@ -21,3 +21,9 @@ The `/profile` visibility behavior supports public/private control.
 
 ## Troubleshooting
 If a private profile appears publicly, treat that as a privacy bug and report it. If a newly changed profile appears stale, refresh/reload the profile data rather than logging out as the first solution.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

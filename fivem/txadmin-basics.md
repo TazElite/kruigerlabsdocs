@@ -23,3 +23,9 @@ Back up first, make one logical change, restart only what is necessary, read the
 
 ## Success check
 You can start/stop the server, find the live console, identify a resource error, and restore a backup before proceeding with major customization.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

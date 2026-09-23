@@ -29,3 +29,9 @@ Optimize one hotspot, restart/retest under the same scenario, and compare measur
 ## Production validation
 
 A change is not proven by one developer client. Test reconnects, multiple players, peak-use features and a full cold boot.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

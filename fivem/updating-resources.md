@@ -33,3 +33,9 @@ If the update fails:
 3. Restore the compatible configuration.
 4. Start it and verify.
 5. Review the failed update before retrying.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

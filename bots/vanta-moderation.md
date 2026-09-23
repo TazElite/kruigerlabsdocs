@@ -17,3 +17,9 @@ A guild can disable modules or individual commands. If moderation appears unavai
 
 ## Safety
 Do not give ordinary staff permissions beyond their job. Test kick/ban/timeout or destructive actions in a controlled environment before relying on them operationally.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

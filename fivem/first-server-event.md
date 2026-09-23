@@ -25,3 +25,9 @@ Never create a server event that blindly trusts money, roles, item counts, permi
 ## Test
 
 Use two clients when possible so you learn the difference between one player's local state and shared server state.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

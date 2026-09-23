@@ -26,3 +26,9 @@ Back up an existing database. Read the product's upgrade instructions before imp
 
 ## Success check
 A cold server boot connects without database errors and persistent data survives a reconnect/restart as expected.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

@@ -12,3 +12,9 @@ keywords: "Hosting & Security FAQ frequently asked questions"
 <details><summary><strong>Is NordPass a VPN?</strong></summary><p>No. NordPass is a password manager. NordVPN is the VPN product.</p></details>
 <details><summary><strong>Can a VPN replace server security?</strong></summary><p>No. A VPN does not replace MFA, unique passwords, least privilege, backups or server hardening.</p></details>
 <details><summary><strong>Can I commit a private repository token because the repo is private?</strong></summary><p>No. Repository visibility does not make committed credentials safe.</p></details>
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

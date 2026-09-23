@@ -25,3 +25,9 @@ Shared scripts load on both sides. Use them for constants/configuration that tru
 ## Rule
 
 A client can request an action. The server should decide whether the action is allowed.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

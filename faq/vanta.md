@@ -14,3 +14,9 @@ keywords: "Vanta FAQ frequently asked questions"
 <details><summary><strong>Are private profiles shown globally?</strong></summary><p>They should not be. The global directory is for public profiles.</p></details>
 <details><summary><strong>Does a music failure mean Vanta is offline?</strong></summary><p>No. An individual provider or track can be unavailable while Vanta remains online.</p></details>
 <details><summary><strong>Can I disable only one command?</strong></summary><p>Yes. Vanta's guild settings support module and individual command switches.</p></details>
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

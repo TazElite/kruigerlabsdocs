@@ -26,3 +26,9 @@ Two resources can replace the same game asset or define conflicting metadata. If
 
 ## Success check
 Every asset pack has a known source/version and can be disabled independently during troubleshooting.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

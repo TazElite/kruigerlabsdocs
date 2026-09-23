@@ -43,3 +43,9 @@ Change the printed text, save, then run `restart helloKruiger`. This edit → re
 ## Make it survive reboot
 
 Add `ensure helloKruiger` to the appropriate startup configuration, then perform a full cold boot to prove it starts automatically.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

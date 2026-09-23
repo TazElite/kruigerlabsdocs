@@ -38,3 +38,9 @@ Test once as an authorized user and once as a normal user. If both succeed, your
 ## Debug checklist
 
 Confirm spelling/case, the actual player identifier, file execution order, inherited groups, explicit denies, and the exact permission object expected by the resource.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

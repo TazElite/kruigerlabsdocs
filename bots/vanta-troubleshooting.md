@@ -38,3 +38,9 @@ A healthy Discord connection does not prove MySQL-backed features are healthy. R
 
 ## Still stuck
 Collect the server ID, Vanta version, command/feature, exact error, screenshots/log excerpt, and what you already tried. Then use Kruiger Labs Support.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

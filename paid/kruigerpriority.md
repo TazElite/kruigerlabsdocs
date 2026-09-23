@@ -80,3 +80,9 @@ Look for client errors and conflicting priority resources. Test with only Kruige
 
 ### Cooldown appears wrong
 Check the configured cooldown unit/value and verify an older configuration was not copied over a newer release.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

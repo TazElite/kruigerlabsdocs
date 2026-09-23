@@ -33,3 +33,9 @@ A restart test is not enough. Stop the server completely, start it normally, and
 
 ## Success check
 The server boots cleanly from a stopped state without manually restarting resources to make them work.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

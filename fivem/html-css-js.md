@@ -35,3 +35,9 @@ Treat data coming from the browser UI as untrusted input. If a callback ultimate
 ## Debugging
 
 Use the FiveM/client console and NUI developer tooling where available. Check file paths, manifest `files`, browser-console errors, callback names and focus state.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

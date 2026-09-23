@@ -22,3 +22,9 @@ Vanta has evaluated/used Audius API integration for search, metadata and authori
 5. Do not assume a provider-wide outage from one unavailable track.
 
 Vanta should not permanently download provider tracks as part of normal playback.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

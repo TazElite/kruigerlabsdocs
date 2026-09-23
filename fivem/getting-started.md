@@ -88,3 +88,9 @@ Renaming a resource can break exports, dependencies, configuration, or code that
 
 ## Next steps
 Continue with **Organizing Resources**, **Cleaning server.cfg**, **Multiple CFG Files**, and **ACE Permissions**.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

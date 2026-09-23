@@ -29,3 +29,12 @@ Recommended-service pages may contain affiliate links. Keep the disclosure visib
 
 ## Documentation quality
 FiveM platform behavior should be checked against current Cfx.re documentation when platform versions change. Product-specific behavior should match the installed Kruiger Labs release.
+
+
+## v6 knowledge-base layers
+- Kruiger Labs Academy learning paths
+- Reference Center
+- Error Encyclopedia
+- Operational checklists
+- Documentation/security/version guidance
+- Existing product, FiveM, bot, troubleshooting, FAQ and recommended-service guides

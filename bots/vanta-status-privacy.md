@@ -14,3 +14,9 @@ Public status can include bot state, uptime duration, Discord latency, server/me
 Ticket archives/transcripts are authenticated dashboard data. Public music/status pages should not expose private queue contents or guild IDs.
 
 Profile visibility must respect public/private user choice.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

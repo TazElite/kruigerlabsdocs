@@ -22,3 +22,9 @@ If you edit tracked files directly on the server, a later pull can conflict. Pre
 
 ## Success check
 `git status` is clean after deployment and the server can pull the intended branch without interactive account credentials.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

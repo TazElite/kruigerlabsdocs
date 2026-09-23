@@ -26,3 +26,9 @@ Keep ACE entries in a central `permissions.cfg` if that matches your server orga
 
 ## Troubleshooting
 If `/togglenpc` exists but access is denied, verify the ACE object, principal/group membership, and that `permissions.cfg` executes before testing. If traffic returns unexpectedly, check for other population/traffic resources.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

@@ -26,3 +26,9 @@ Review the included configuration before production use, especially any permissi
 
 ## Troubleshooting
 If a nearby vehicle is not deleted, test while seated in a vehicle and check client/server console output. Confirm another vehicle-management or anti-cheat resource is not blocking deletion.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

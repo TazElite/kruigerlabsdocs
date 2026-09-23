@@ -64,3 +64,9 @@ Treat them separately: they use separate namespaces.
 
 ### Tag does not update after permission change
 Reconnect/reload according to your permission integration and test whether the underlying principal was actually updated.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

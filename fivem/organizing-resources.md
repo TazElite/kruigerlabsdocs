@@ -57,3 +57,9 @@ resources/[kruiger]/KruigerHandsUp/fxmanifest.lua
 ```
 
 If FiveM cannot find the manifest where expected, the resource will not load correctly.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

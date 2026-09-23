@@ -29,3 +29,9 @@ Administrator accounts can hide permission problems. Test with a normal member a
 ## Troubleshoot
 
 Capture the command, exact response, server ID, bot version/status, relevant role/channel hierarchy and a screenshot. Never send the bot token.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

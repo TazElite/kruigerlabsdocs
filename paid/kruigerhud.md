@@ -64,3 +64,9 @@ Test without another vehicle HUD/speedometer modifying the same display/state.
 
 ### Looks correct at 1080p but not another resolution
 Test the UI at common aspect ratios/resolutions and report the exact resolution with screenshots.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

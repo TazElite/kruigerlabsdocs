@@ -31,3 +31,9 @@ Use the same process every time you touch production.
 ## After
 - Record what changed.
 - Keep the known-good rollback until the change has been stable.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

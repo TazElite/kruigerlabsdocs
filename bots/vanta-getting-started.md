@@ -27,3 +27,9 @@ Use `/setup logs` and the dashboard/log settings for the events your staff actua
 
 ## 7 — Test restart/reconnect behavior
 Verify panels, settings, roles and commands after a reconnect and after Vanta/server restarts.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

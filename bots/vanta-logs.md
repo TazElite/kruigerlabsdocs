@@ -30,3 +30,9 @@ Use separate channels when one channel becomes noisy. Give log channels staff-on
 
 ## Troubleshooting
 If one category is missing while others work, check that category's configured destination and Vanta's channel permissions before rebuilding the entire logging setup.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

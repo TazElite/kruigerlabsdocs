@@ -42,3 +42,9 @@ Consider:
 8. Configure backups/monitoring.
 
 Never commit a Discord bot token to Git.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

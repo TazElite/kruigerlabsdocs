@@ -45,3 +45,9 @@ Do not use `git add .` blindly until you understand what is untracked. Run `git 
 
 ## Success check
 You can clone a fresh copy, pull an update, see what changed, and restore the previous known-good version.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

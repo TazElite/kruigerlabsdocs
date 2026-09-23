@@ -29,3 +29,9 @@ Start the database adapter before resources that depend on it. Watch for authent
 ## Backup and rollback
 
 Take a database dump before upgrades. A file rollback is not enough when an update also changed schema; document which code version matches which schema.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

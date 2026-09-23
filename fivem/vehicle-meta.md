@@ -29,3 +29,9 @@ Run `refresh`, then `ensure ResourceName`. Read the console before joining. Test
 ## Typical failures
 
 Missing assets often mean a nested folder, bad path/case, missing dependency, incorrect manifest/data declaration, or a conflict with another resource providing the same content.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

@@ -28,3 +28,9 @@ The dashboard includes **Ticket Archives** and authenticated transcript access.
 
 ## Test before publishing
 Create a ticket as a normal user, verify staff visibility, test close/archive/transcript behavior, and ensure users cannot see other private tickets.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

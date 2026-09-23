@@ -12,3 +12,9 @@ keywords: "FiveM Installation FAQ frequently asked questions"
 <details><summary><strong>Why does it work after I manually restart it?</strong></summary><p>That commonly points to start order or a dependency that was not ready during the cold boot.</p></details>
 <details><summary><strong>Should I ensure every resource separately?</strong></summary><p>You can ensure individual resources or bracket categories. Explicit lines are easier to reason about when start order matters.</p></details>
 <details><summary><strong>Why is FiveM saying the manifest is missing?</strong></summary><p>Check for an extra nested folder and confirm <code>fxmanifest.lua</code> is inside the actual resource directory.</p></details>
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

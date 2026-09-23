@@ -26,3 +26,9 @@ Rotate/revoke it. Deleting the visible line from a repository does not make a pr
 
 ## Success check
 No production credential is in a public repository, screenshots, shared chat logs, or documentation.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

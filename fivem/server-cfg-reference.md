@@ -43,3 +43,9 @@ Do not publish license keys, database passwords, bot tokens, API keys, webhooks,
 
 ## Success check
 A new administrator should be able to open your main CFG and quickly find server settings, external CFGs, and resource startup order.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

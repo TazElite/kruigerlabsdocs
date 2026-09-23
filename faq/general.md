@@ -37,3 +37,9 @@ keywords: "Kruiger Labs FAQ FiveM support GitHub permissions resources"
 <summary><strong>Where do I get support?</strong></summary>
 <p>Work through the relevant troubleshooting page first. If the issue remains, join <strong>discord.gg/kruigerlabs</strong> and provide the product/version, relevant error, and steps already tried.</p>
 </details>
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

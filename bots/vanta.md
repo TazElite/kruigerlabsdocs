@@ -21,3 +21,9 @@ Server managers can disable modules and individual commands. When a command/modu
 
 ## Continue
 Use the next pages for installation/permissions, dashboard, verification, tickets, logs, backups, autoreplies, profiles/privacy, music and troubleshooting.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

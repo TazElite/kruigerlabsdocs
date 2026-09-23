@@ -37,3 +37,9 @@ Clients are not authoritative. Validate permissions, amounts, target IDs and sta
 ## Release-quality check
 
 Cold boot, reconnect, test two players, test allowed/denied permissions, inspect performance, remove debug spam, document config/dependencies, and tag a version.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

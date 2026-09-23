@@ -29,3 +29,9 @@ Use the Cfx Portal link supplied by the deployer, generate the server registrati
 ## Verify
 
 Choose **Save and Run Server**, connect from FiveM on LAN, then open F8 and verify the server is responsive. Back up this clean baseline before adding scripts.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

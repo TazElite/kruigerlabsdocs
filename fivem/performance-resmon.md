@@ -21,3 +21,9 @@ Large vehicles, maps, clothing, and other assets can create different bottleneck
 
 ## Success check
 You have a baseline and can identify which change introduced a performance regression.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

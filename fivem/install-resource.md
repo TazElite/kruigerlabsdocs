@@ -52,3 +52,9 @@ A resource showing `started` is not proof that every feature works. Look for mis
 
 ## 7. Test in-game
 Test commands, permissions, reconnect behavior, restart behavior, and the feature with more than one player when relevant.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

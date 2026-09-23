@@ -69,3 +69,9 @@ Check the internal identifier and syntax. One character of difference between de
 
 ### Duty works but headtag/chat does not change
 Troubleshoot the integration boundary: verify all components use the same department identifier and that each individual resource is running.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

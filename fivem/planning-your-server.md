@@ -41,3 +41,9 @@ Boot → framework/database → one feature group → test → next group. This 
 
 ## Success check
 Before continuing, you should know where every resource belongs, which resources are dependencies, where your secrets live, and how you will restore a working backup.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

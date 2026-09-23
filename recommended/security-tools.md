@@ -31,3 +31,9 @@ NordPass is a **password manager, not a VPN**. Use a password manager to generat
 4. Separate deployment credentials with minimum access.
 5. Never share private keys or tokens in support screenshots.
 6. Rotate a credential immediately if exposed.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

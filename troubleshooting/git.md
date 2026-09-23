@@ -36,3 +36,9 @@ Then pull the branch your deployment actually uses.
 
 ## Repository contains a secret
 Rotate the secret immediately. Removing it from the newest file does not make previous Git history safe.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

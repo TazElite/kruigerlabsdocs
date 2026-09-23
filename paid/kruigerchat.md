@@ -65,3 +65,9 @@ Check overlapping permissions and the tag/department identifier assigned to the 
 
 ### UI loads but input is broken
 Inspect the FiveM client console for NUI errors and confirm no other chat resource is capturing focus.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

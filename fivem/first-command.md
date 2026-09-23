@@ -31,3 +31,9 @@ Restart the resource. In FiveM run `/hello` and `/hello Kruiger`, then inspect F
 ## Next
 
 Do not put sensitive authority only on the client. Continue into client/server separation and server-side validation.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

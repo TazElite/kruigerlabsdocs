@@ -64,3 +64,9 @@ If moving a setting breaks something:
 3. Check the console for an execution error.
 4. Check that the CFG is loaded **before** a resource that requires the value at startup.
 5. Temporarily move the setting back to `server.cfg` to isolate whether the problem is file loading or the setting itself.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

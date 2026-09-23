@@ -25,3 +25,9 @@ For important servers, periodically verify that a backup can actually be restore
 
 ## Success check
 You can answer: “If this update breaks the server, exactly which files/data do I restore and how long will it take?”
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.

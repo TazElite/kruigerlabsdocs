@@ -27,3 +27,9 @@ Use the configuration included with your release to define the classes/groups an
 
 ## Troubleshooting
 If an item is incorrectly blocked, check spelling/model identifiers, the player's assigned class/group, and whether another permissions/restrictions resource is also enforcing access.
+
+
+## Document status
+
+**Last reviewed:** September 2026  
+**Version note:** Use the instructions that match your installed product/resource version. When behavior differs from your release, check its release notes before changing production configuration.
