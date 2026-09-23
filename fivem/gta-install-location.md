@@ -1,0 +1,31 @@
+---
+title: "Finding Your GTA V Installation"
+description: "A practical step-by-step Kruiger Labs guide to finding your gta v installation."
+category: "FiveM Servers"
+order: 21
+keywords: "Finding Your GTA V Installation step by step Kruiger Labs"
+---
+
+# Finding Your GTA V Installation
+
+This guide walks through **Finding Your GTA V Installation** from preparation through verification, with a rollback path and the checks that matter in a real fivem servers environment.
+
+## What it is
+
+This guide walks through **Finding Your GTA V Installation** from preparation through verification, with a rollback path and the checks that matter in a real fivem servers environment.
+
+## Evaluate it
+
+Check compatibility, region, support model, backup/restore capability, security controls, resource limits and the provider's current terms before committing.
+
+## Deployment plan
+
+Back up first, document DNS/ports/credentials privately, migrate one service at a time, then verify externally from a normal client.
+
+## Security
+
+Use MFA where available, unique credentials, least privilege and a password manager. A hosting provider does not replace your own access-control and backup practices.
+
+## Exit plan
+
+Know how to export files/databases and restore elsewhere before the service becomes critical.

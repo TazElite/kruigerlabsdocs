@@ -25,3 +25,7 @@ Copy an existing Markdown page, change the front matter, write the guide, and pu
 
 ## Affiliate links
 Recommended-service pages may contain affiliate links. Keep the disclosure visible whenever an affiliate URL is used.
+
+
+## Documentation quality
+FiveM platform behavior should be checked against current Cfx.re documentation when platform versions change. Product-specific behavior should match the installed Kruiger Labs release.

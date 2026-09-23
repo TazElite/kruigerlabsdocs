@@ -1,0 +1,31 @@
+---
+title: "Performance Troubleshooting"
+description: "A practical step-by-step Kruiger Labs guide to performance troubleshooting."
+category: "FiveM Servers"
+order: 112
+keywords: "Performance Troubleshooting step by step Kruiger Labs"
+---
+
+# Performance Troubleshooting
+
+This guide walks through **Performance Troubleshooting** from preparation through verification, with a rollback path and the checks that matter in a real fivem servers environment.
+
+## Measure first
+
+Do not optimize from guesses. Reproduce the problem with a stable player count/scenario and record server/client symptoms.
+
+## Isolate
+
+Use resource monitoring/profiling tools and logs to identify the resource or operation consuming time. Compare idle and active behavior.
+
+## Common causes
+
+Look for tight loops without appropriate waits, repeated database queries, oversized payloads, excessive entity creation, unnecessary NUI updates and log/event spam.
+
+## Change one variable
+
+Optimize one hotspot, restart/retest under the same scenario, and compare measurements. Keep the previous version available for rollback.
+
+## Production validation
+
+A change is not proven by one developer client. Test reconnects, multiple players, peak-use features and a full cold boot.

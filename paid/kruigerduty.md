@@ -1,25 +1,71 @@
 ---
 title: "KruigerDuty"
-description: "Department duty/clock-in system for structured roleplay operations."
+description: "Detailed setup for KruigerDuty departments, duty locations, permissions, logging, and in-game operation."
 category: "Paid Scripts"
 order: 210
-keywords: "KruigerDuty paid FiveM install setup troubleshooting"
+keywords: "KruigerDuty configuration commands ACE permissions troubleshooting"
 ---
 
 # KruigerDuty
 
-KruigerDuty handles structured duty/clock-in workflows for configured departments.
+KruigerDuty is the duty/clock-in component of the Kruiger server package. It is intended to let configured departments use controlled duty locations rather than hard-coding one department into the resource.
+
+## Commands and interaction
+The established duty commands are:
+
+```text
+/duty
+/dutysetup
+```
+
+The duty interaction uses **E** where the configured duty interaction requires it.
+
+`/duty` is the normal duty workflow. `/dutysetup` is the administrative setup workflow and should be restricted to trusted administrators.
 
 ## Installation
-Install the purchased resource as a complete folder, ensure any documented dependencies first, then ensure KruigerDuty.
+1. Upload the complete resource.
+2. Read the included editable configuration.
+3. Configure departments first.
+4. Configure duty locations for those departments.
+5. Configure administrative permissions.
+6. Configure optional Discord logging if your release includes it.
+7. Add ACE/configuration **before** `ensure KruigerDuty`.
+8. Start the server.
+9. Create/test one duty location before creating the rest.
 
-## Setup
-Work through the configuration included with your purchased version:
-1. Define the departments your server uses.
-2. Define any rank/permission requirements.
-3. Configure duty locations or interaction behavior if exposed by your version.
-4. Configure logs/integrations if included.
-5. Test clock-in and clock-out with a normal member and an administrator.
+## Departments
+Use consistent internal identifiers across the Kruiger suite. For example, if the internal department identifier is `sahp`, do not call the same department `statepolice` in another component unless the configuration explicitly maps the two.
+
+For each department, document:
+- internal identifier
+- display name
+- allowed ranks/groups
+- duty locations
+- headtag/chat behavior when integrated
+- logging destination if applicable
+
+## Duty locations
+When adding a location:
+1. Stand exactly where the interaction should occur.
+2. Capture the required coordinates.
+3. Add them using the configuration/setup method in your installed version.
+4. Set the intended department/access.
+5. Restart/reload only as documented.
+6. Test the marker/interaction from a normal department account.
+7. Test an account that should **not** have access.
+
+## Logging
+The package design includes optional Discord logging. Treat webhook URLs as secrets. Never place a production webhook in public documentation or Git.
 
 ## Troubleshooting
-For a player who cannot go on duty, verify their department/rank mapping, permissions, resource start order, and exact identifiers expected by the config.
+### E does nothing
+Confirm you are inside the configured interaction area, the duty resource is running, and another resource has not taken over the same control in a way that prevents the interaction.
+
+### `/dutysetup` is denied
+That is expected for users without setup permission. Check the version-specific setup ACE/group.
+
+### Department does not appear
+Check the internal identifier and syntax. One character of difference between department configurations can break suite integration.
+
+### Duty works but headtag/chat does not change
+Troubleshoot the integration boundary: verify all components use the same department identifier and that each individual resource is running.

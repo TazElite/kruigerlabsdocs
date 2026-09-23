@@ -1,20 +1,67 @@
 ---
 title: "KruigerChat"
-description: "Custom FiveM chat package with server-configurable behavior."
+description: "Commands, chat tags, configuration, conflict removal, permissions, and troubleshooting for KruigerChat."
 category: "Paid Scripts"
 order: 220
-keywords: "KruigerChat paid FiveM install setup troubleshooting"
+keywords: "KruigerChat configuration commands ACE permissions troubleshooting"
 ---
 
 # KruigerChat
 
-KruigerChat provides the chat component of the Kruiger server package.
+KruigerChat is the Kruiger Labs custom FiveM chat component.
+
+## Established commands
+The package includes the following chat-facing command set:
+
+```text
+/me
+/gme
+/do
+/social
+/sms
+/ad
+/chatsettings
+/chattag
+```
+
+The exact formatting/access of each command follows the configuration in your installed release.
+
+## Before installing
+A server should have one intended primary chat implementation. If the default or another replacement chat is active at the same time, you can see duplicate UI/messages or conflicting behavior.
+
+Do not remove your existing chat until you have a rollback copy.
 
 ## Installation
-Remove or disable conflicting chat replacements only after confirming KruigerChat is ready to take over the intended behavior. Install the resource, configure it, and ensure it in the documented order.
+1. Upload KruigerChat.
+2. Configure chat presentation and enabled features.
+3. Configure chat tags/department mappings.
+4. Configure permissions for administrative settings.
+5. Stop the chat implementation KruigerChat replaces, when applicable.
+6. Ensure KruigerChat.
+7. Test every enabled command.
+8. Test with at least two players.
 
-## Setup
-Review the version-specific configuration for chat commands, presentation, department/server options, and permissions. Do not copy configuration keys from a different version.
+## Chat tags
+Chat Tags are configurable. Keep tag identifiers consistent with your server permissions/departments. `/chattag` is part of the established command set, while `/chatsettings` exposes the user/settings workflow included by the package.
+
+## Command testing
+Test each enabled command for:
+- correct name/display
+- correct range/audience
+- permission behavior
+- formatting
+- escaping/long messages
+- two-player visibility
 
 ## Troubleshooting
-If you see duplicate messages or two chat UIs, another chat resource is probably still active. If commands do not appear, inspect resource startup and command-registration errors.
+### Two chat boxes or duplicate messages
+Another chat resource is still running. Identify both resources before disabling anything.
+
+### A command is unknown
+Confirm KruigerChat started and that the command is enabled in the installed configuration.
+
+### Tag is wrong
+Check overlapping permissions and the tag/department identifier assigned to the user.
+
+### UI loads but input is broken
+Inspect the FiveM client console for NUI errors and confirm no other chat resource is capturing focus.
