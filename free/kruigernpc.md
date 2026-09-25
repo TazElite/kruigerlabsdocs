@@ -1,9 +1,9 @@
 ---
-title: "KruigerNPC"
-description: "ACE-controlled standalone NPC and traffic toggle."
+title: "FiveM NPC & Traffic Toggle Script – KruigerNPC"
+description: "Free FiveM NPC and traffic toggle script documentation with server-wide state and ACE permissions."
 category: "Free Scripts"
 order: 130
-keywords: "KruigerNPC FiveM free script install configuration troubleshooting"
+keywords: "FiveM NPC script, FiveM traffic script, disable NPC FiveM, KruigerNPC"
 ---
 
 # KruigerNPC

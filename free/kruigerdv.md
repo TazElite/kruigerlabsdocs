@@ -1,9 +1,9 @@
 ---
-title: "KruigerDV"
-description: "Standalone vehicle deletion utility for the current or nearest vehicle."
+title: "FiveM DV Script – KruigerDV"
+description: "Free FiveM DV script documentation for deleting the current or nearest vehicle with a configurable /dv command."
 category: "Free Scripts"
 order: 120
-keywords: "KruigerDV FiveM free script install configuration troubleshooting"
+keywords: "FiveM DV script, FiveM delete vehicle script, FiveM /dv command, KruigerDV"
 ---
 
 # KruigerDV

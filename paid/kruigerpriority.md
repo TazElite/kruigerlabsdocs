@@ -1,9 +1,9 @@
 ---
-title: "KruigerPriority"
-description: "Configure and operate the Kruiger Labs roleplay priority system, including statuses, permissions, cooldown behavior, and troubleshooting."
+title: "FiveM Priority Script – KruigerPriority"
+description: "FiveM priority script documentation for KruigerPriority: status management, cooldowns, ACE permissions, configuration and troubleshooting."
 category: "Paid Scripts"
 order: 200
-keywords: "KruigerPriority configuration commands ACE permissions troubleshooting"
+keywords: "FiveM priority script, FiveM priority cooldown, roleplay priority system, KruigerPriority"
 ---
 
 # KruigerPriority

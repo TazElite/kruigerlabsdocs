@@ -1,9 +1,9 @@
 ---
-title: "KruigerDuty"
-description: "Detailed setup for KruigerDuty departments, duty locations, permissions, logging, and in-game operation."
+title: "FiveM Duty Script – KruigerDuty"
+description: "FiveM duty script documentation for KruigerDuty: departments, duty locations, clock-in workflow, permissions, logging and setup."
 category: "Paid Scripts"
 order: 210
-keywords: "KruigerDuty configuration commands ACE permissions troubleshooting"
+keywords: "FiveM duty script, FiveM clock in script, FiveM department duty, KruigerDuty"
 ---
 
 # KruigerDuty

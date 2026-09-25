@@ -1,9 +1,9 @@
 ---
-title: "KruigerHandsUp"
-description: "Lightweight standalone surrender controls with hands-up and hands-on-knees stances."
+title: "FiveM Hands Up & Kneel Script – KruigerHandsUp"
+description: "Free FiveM hands up and kneel script documentation with /handsup, /huk, configurable controls and exports."
 category: "Free Scripts"
 order: 100
-keywords: "KruigerHandsUp FiveM free script install configuration troubleshooting"
+keywords: "FiveM hands up script, FiveM kneel script, FiveM surrender script, KruigerHandsUp"
 ---
 
 # KruigerHandsUp

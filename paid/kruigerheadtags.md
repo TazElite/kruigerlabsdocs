@@ -1,9 +1,9 @@
 ---
-title: "KruigerHeadtags"
-description: "Configure Headtags and Gangtags, ACE permissions, user controls, departments, and troubleshooting."
+title: "FiveM Headtags Script – KruigerHeadtags"
+description: "FiveM headtags script documentation for KruigerHeadtags: headtags, gangtags, ACE permissions, departments, commands and troubleshooting."
 category: "Paid Scripts"
 order: 240
-keywords: "KruigerHeadtags configuration commands ACE permissions troubleshooting"
+keywords: "FiveM headtags script, FiveM overhead tags, FiveM gang tags, KruigerHeadtags, ACE permissions"
 ---
 
 # KruigerHeadtags

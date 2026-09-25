@@ -1,9 +1,9 @@
 ---
-title: "KruigerCoords"
-description: "Standalone developer utility for copying the player's vector4 coordinates."
+title: "FiveM Coordinates Script – KruigerCoords"
+description: "Free FiveM coordinates script documentation for copying vector4 coordinates and heading with /coords."
 category: "Free Scripts"
 order: 110
-keywords: "KruigerCoords FiveM free script install configuration troubleshooting"
+keywords: "FiveM coords script, FiveM coordinates script, FiveM vector4, KruigerCoords"
 ---
 
 # KruigerCoords

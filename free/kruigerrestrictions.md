@@ -1,9 +1,9 @@
 ---
-title: "KruigerRestrictions"
-description: "Class-based vehicle, weapon, and optional clothing restrictions."
+title: "FiveM Restrictions Script – KruigerRestrictions"
+description: "Free FiveM restrictions script documentation for vehicles, weapons, ped models and clothing using ACE permissions."
 category: "Free Scripts"
 order: 150
-keywords: "KruigerRestrictions FiveM free script install configuration troubleshooting"
+keywords: "FiveM vehicle restrictions, FiveM weapon restrictions, FiveM clothing restrictions, KruigerRestrictions"
 ---
 
 # KruigerRestrictions

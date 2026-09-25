@@ -1,9 +1,9 @@
 ---
-title: "KruigerSpeedLimit"
-description: "Configurable global vehicle speed limit with ACE bypass and optional class limits."
+title: "FiveM Speed Limit Script – KruigerSpeedLimit"
+description: "Free FiveM speed limit script documentation with global, class, model and ACE-based vehicle speed limits."
 category: "Free Scripts"
 order: 140
-keywords: "KruigerSpeedLimit FiveM free script install configuration troubleshooting"
+keywords: "FiveM speed limit script, FiveM speed limiter, KruigerSpeedLimit"
 ---
 
 # KruigerSpeedLimit

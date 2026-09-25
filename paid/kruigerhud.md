@@ -1,9 +1,9 @@
 ---
-title: "KruigerHUD"
-description: "Full KruigerHUD installation, postal setup, HUD commands, controls, customization, departments, and troubleshooting."
+title: "FiveM HUD Script – KruigerHUD"
+description: "FiveM HUD script documentation for KruigerHUD: installation, postal setup, HUD controls, departments, customization and troubleshooting."
 category: "Paid Scripts"
 order: 230
-keywords: "KruigerHUD configuration commands ACE permissions troubleshooting"
+keywords: "FiveM HUD script, FiveM postal HUD, FiveM speedometer HUD, KruigerHUD"
 ---
 
 # KruigerHUD

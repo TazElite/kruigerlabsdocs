@@ -1,9 +1,9 @@
 ---
-title: "KruigerChat"
-description: "Commands, chat tags, configuration, conflict removal, permissions, and troubleshooting for KruigerChat."
+title: "FiveM Chat Script – KruigerChat"
+description: "FiveM chat script documentation for KruigerChat: roleplay commands, chat tags, permissions, configuration and troubleshooting."
 category: "Paid Scripts"
 order: 220
-keywords: "KruigerChat configuration commands ACE permissions troubleshooting"
+keywords: "FiveM chat script, FiveM roleplay chat, FiveM chat tags, KruigerChat"
 ---
 
 # KruigerChat
